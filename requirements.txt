@@ -1,0 +1,6 @@
+pandas
+openpyxl
+python-docx
+PyMuPDF
+pdf2docx
+ipython
